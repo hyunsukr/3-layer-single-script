@@ -75,4 +75,4 @@ For readability purposes
 3 pt: As mentioned earlier, there is a bug here. If we run the tests, they leave the test intantiation of aquarium.db behind. Fix the bug and make sure all your tests still pass.
 
 - Running tests removes the db file.
-- https://github.com/hyunsukr/3-layer-single-script/blob/main/db_viewer.py#L109
+- https://github.com/hyunsukr/3-layer-single-script/blob/main/db_viewer.py#L101
